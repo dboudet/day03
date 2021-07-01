@@ -5,7 +5,7 @@ const myHeight = 8
 function buildPyramidString(height){
     for(let i=0; i<(height); i++){
 //      pyramidString = pyramidString+"# "
-        pyramidString += '# '
+        pyramidString += "# "
         console.log(pyramidString)
     }
 }
